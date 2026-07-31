@@ -9,7 +9,7 @@ void main()
         printf("Enter and fill number at a[%d]: ", i);
         scanf("%d", &a[i]);
     }
-    
+   
     printf("Enter a number to find it in array: ");
     scanf("%d", &num);
     
